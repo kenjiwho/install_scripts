@@ -1,4 +1,5 @@
 7zip
+alacritty
 alsa-utils
 android-studio
 android-tools
@@ -9,6 +10,7 @@ base
 base-devel
 bash-language-server
 bitwarden-cli
+bluetui
 bluez
 bluez-utils
 brave-bin
@@ -27,7 +29,6 @@ ddcutil
 discord
 dnsmasq
 dosfstools
-dunst
 dust
 efibootmgr
 elixir
@@ -68,8 +69,10 @@ intel-media-driver
 intel-ucode
 ipython
 jadx
+jq
 jre-openjdk
 jupyter-console
+kanshi
 kdeconnect
 keyd
 kitty
@@ -88,6 +91,7 @@ love
 lshw
 lua-language-server
 luarocks
+mako
 mermaid-cli
 mpd
 mpv
@@ -96,6 +100,8 @@ ncdu
 neovim
 net-tools
 networkmanager
+networkmanager-dmenu
+niri
 nm-connection-editor
 nmap
 nodejs-lts-jod
@@ -113,7 +119,6 @@ oh-my-zsh-git
 openssh
 os-prober
 pacman-contrib
-pamixer
 papirus-icon-theme
 paru
 pavucontrol
@@ -123,6 +128,7 @@ pipewire-pulse
 playerctl
 pnpm
 powertop
+prettier
 proton-vpn-gtk-app
 pyright
 python-aubio
@@ -158,6 +164,9 @@ stow
 stylua
 sudo
 svelte-language-server
+swaybg
+swayidle
+swaylock
 swi-prolog
 syncthing
 tailscale
@@ -166,6 +175,7 @@ telegram-desktop
 texlab
 tk
 tldr
+tlp
 tmux
 tokei
 torbrowser-launcher
@@ -178,6 +188,7 @@ ttf-ibm-plex
 ttf-jetbrains-mono-nerd
 ttf-material-symbols-variable-git
 typescript-language-server
+udiskie
 ufw
 unarchiver
 unzip
@@ -186,13 +197,16 @@ valgrind
 vim
 virt-manager
 vulkan-intel
+wallust-git
 waybar
 webkit2gtk-4.1
+wev
 wget
 wl-clipboard
 wlr-randr
 woff2-font-awesome
 wtype
+xdg-desktop-portal-gnome
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-user-dirs
@@ -217,6 +231,7 @@ xorg-xcursorgen
 xorg-xdpyinfo
 xorg-xdriinfo
 xorg-xev
+xorg-xeyes
 xorg-xgamma
 xorg-xhost
 xorg-xinput
@@ -233,10 +248,12 @@ xorg-xwayland
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
+xwayland-satellite
 yazi
 yt-dlp
 zbar
 zen-browser-bin
 zip
 zls
+zram-generator
 zsh
