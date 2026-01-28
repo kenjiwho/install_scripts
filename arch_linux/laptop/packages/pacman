@@ -1,5 +1,4 @@
 7zip
-alacritty
 alsa-utils
 android-studio
 android-tools
@@ -9,6 +8,7 @@ appmenu-gtk-module
 base
 base-devel
 bash-language-server
+bat
 bitwarden-cli
 bluetui
 bluez
@@ -25,6 +25,9 @@ chaotic-mirrorlist
 clang
 clipse
 cmake
+cowsay
+cpufetch
+cups
 ddcutil
 discord
 dnsmasq
@@ -33,6 +36,7 @@ dust
 efibootmgr
 elixir
 elixir-ls
+envycontrol
 ethtool
 exfat-utils
 fastfetch
@@ -59,6 +63,7 @@ go
 gparted
 grim
 grub
+hplip
 hyprland
 hyprpicker
 hyprpolkitagent
@@ -69,11 +74,13 @@ intel-media-driver
 intel-ucode
 ipython
 jadx
+jellyfin-desktop
 jq
 jre-openjdk
 jupyter-console
 kanshi
 kdeconnect
+kew
 keyd
 kitty
 krita
@@ -112,6 +119,10 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 npm
+nvidia-open
+nvidia-settings
+nvidia-utils
+nvtop
 nwg-look
 obs-studio
 obsidian
@@ -129,6 +140,7 @@ playerctl
 pnpm
 powertop
 prettier
+proton-vpn-cli
 proton-vpn-gtk-app
 pyright
 python-aubio
@@ -143,6 +155,7 @@ qemu-full
 qpwgraph
 qt5ct
 qt6ct
+raylib
 readest
 reptyr
 ripgrep
@@ -152,6 +165,7 @@ rofi-calc
 rofimoji
 rsync
 rustdesk-bin
+sameboy
 slack-desktop
 slurp
 smartmontools
@@ -169,6 +183,7 @@ swayidle
 swaylock
 swi-prolog
 syncthing
+system-config-printer
 tailscale
 tectonic
 telegram-desktop
@@ -254,6 +269,5 @@ yt-dlp
 zbar
 zen-browser-bin
 zip
-zls
 zram-generator
 zsh
