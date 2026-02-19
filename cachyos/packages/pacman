@@ -1,4 +1,6 @@
 accountsservice
+adwaita-qt5
+adwaita-qt6
 alacritty
 alsa-firmware
 alsa-plugins
@@ -103,6 +105,7 @@ glab
 glances
 gleam
 glibc-debug
+gnome-themes-extra
 go
 gsfonts
 gst-libav
@@ -157,10 +160,12 @@ localsend
 logrotate
 lsb-release
 lshw
+lsof
 lsscsi
 lua-language-server
 luarocks
 lvm2
+macchanger
 mako
 man-db
 man-pages
@@ -169,6 +174,7 @@ meld
 mermaid-cli
 mesa-utils
 micro
+minecraft-launcher
 mkinitcpio
 modemmanager
 mtools
@@ -223,6 +229,7 @@ python-pyqt5
 python-reportlab
 qbittorrent
 qpwgraph
+qt6ct
 readest
 rebuild-detector
 reflector
@@ -234,6 +241,7 @@ s-nail
 sameboy
 sddm
 sg3_utils
+signal-desktop
 smartmontools
 snapper
 sof-firmware
